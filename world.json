@@ -1,0 +1,23 @@
+{
+  "name": "prep-cthulhu-panique",
+  "title": "Prep-Cthulhu-Panique",
+  "description": null,
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "CoC7",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "",
+  "coreVersion": "0.8.9",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.7.1"
+}

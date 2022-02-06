@@ -1,0 +1,7 @@
+{"name":"Map","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#034f16","flags":{},"_id":"2NOZK43Ifm1btu3B"}
+{"name":"Compétences","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"7o5juzlICesnRzgg"}
+{"_id":"8vMXaz1sBCKiBMR4","name":"Notes","type":"JournalEntry","parent":null,"sorting":"a","sort":100000,"color":"#319e29","flags":{}}
+{"name":"PNJ","type":"JournalEntry","parent":"GoGUg7BfJQ1MhXwT","sorting":"a","sort":0,"color":"#197e0c","flags":{},"_id":"F9ywNiBhpE8lYbzL"}
+{"name":"Aventure","type":"JournalEntry","parent":"GoGUg7BfJQ1MhXwT","sorting":"a","sort":0,"color":"#0eaa13","flags":{},"_id":"FURimI4vakgl0qJi"}
+{"name":"Panique à San Francisco","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#055214","flags":{},"_id":"GoGUg7BfJQ1MhXwT"}
+{"name":"Aides de jeux","type":"JournalEntry","parent":"GoGUg7BfJQ1MhXwT","sorting":"a","sort":0,"color":"#214f29","flags":{},"_id":"w2rLfL3Qwl4jorTG"}
